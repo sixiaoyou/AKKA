@@ -1,7 +1,7 @@
 package pers.you.akka.v1
 
-import akka.actor.{Actor, ActorSystem, Props}
-import com.typesafe.config.{Config, ConfigFactory}
+import akka.actor.{ActorSystem, Props}
+import com.typesafe.config.ConfigFactory
 
 /**
   * Created by You on 2017/3/12.
